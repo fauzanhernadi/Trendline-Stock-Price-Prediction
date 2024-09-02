@@ -7,3 +7,7 @@ List of library:
 3.matplotlib
 4.WordCloud
 5.Tensorflow
+6.numpy
+7.datetimes
+8.yfinance
+
